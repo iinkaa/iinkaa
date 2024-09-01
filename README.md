@@ -2,7 +2,7 @@
 
 Geophysics undergraduate student at Gadjah Mada University who is interested in mining and likes numbers. Learn to improve and increase skills and experience in the realm of geophysics.
 
-- 🌱 I'm currently learning about phyton programming language
+- 🌱 I am currently learning about the phyton programming language for my computational methods course
 - 👯 I want to collaborate in learning new things related to the world of coding
 - 🤔 I'm looking for help to understand programming languages and their utilization
 - 💬 Ask me about geophysics
